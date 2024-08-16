@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 ## Array
 |  |
@@ -85,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
