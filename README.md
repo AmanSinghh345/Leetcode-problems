@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Tree
 |  |
