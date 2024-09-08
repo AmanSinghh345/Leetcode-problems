@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0292-nim-game) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0066-plus-one) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
