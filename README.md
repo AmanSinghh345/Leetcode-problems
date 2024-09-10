@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0812-rotate-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
