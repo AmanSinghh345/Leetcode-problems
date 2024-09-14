@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
