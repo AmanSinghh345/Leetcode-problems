@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
@@ -228,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
