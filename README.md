@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
