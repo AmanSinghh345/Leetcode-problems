@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Linked List
