@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 ## Trie
 |  |
 | ------- |
