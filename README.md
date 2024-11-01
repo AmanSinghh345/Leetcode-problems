@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
