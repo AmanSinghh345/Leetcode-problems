@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Brainteaser
 |  |
