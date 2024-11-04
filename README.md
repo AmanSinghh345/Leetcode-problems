@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3379-score-of-a-string) |
+| [3451-string-compression-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
 | ------- |
