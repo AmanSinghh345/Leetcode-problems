@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2580-circular-sentence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3379-score-of-a-string) |
