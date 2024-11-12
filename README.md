@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2752-sum-multiples](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2752-sum-multiples) |
