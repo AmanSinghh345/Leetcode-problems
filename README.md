@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -371,4 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
