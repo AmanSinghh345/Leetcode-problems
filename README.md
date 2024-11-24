@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2089-maximum-matrix-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2089-maximum-matrix-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1791-richest-customer-wealth](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Design
 |  |
