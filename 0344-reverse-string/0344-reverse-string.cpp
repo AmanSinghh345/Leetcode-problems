@@ -1,12 +1,15 @@
 class Solution {
 public:
+    void f(int l,int r,vector<char> & s){
+       if (l >= r) return; // Base case
+        swap(s[l], s[r]);
+         f(l + 1, r - 1, s); // Recursive call
+      
+
+    }
     void reverseString(vector<char>& s) {
         int n=s.size();
-        for(int i=0;i<n/2;i++){
-            char temp=s[i];
-            s[i]=s[n-i-1];
-            s[n-i-1]=temp;
-        }
-        
+       f(0,n-1,s);
+    
     }
 };
