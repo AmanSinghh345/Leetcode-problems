@@ -1,26 +1,20 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        int n=logs.size();
-        unordered_map<int,int> mpp;
-        for(int i=0;i<n;i++){
-           int start=logs[i][0];
-           int end=logs[i][1];
-           while(start<end){
-            mpp[start]+=1;
-            start++;
-           }
+        // Prefix Sum solution 
+        vector<int> arr(101,0); // From the constrainsts
+        for(const auto& log : logs){
+            arr[log[0]-1950]++;
+            arr[log[1]-1950]--;
         }
-        //Now to find maximum
-        int maxi=INT_MIN;
-        int ans=0;
-        for(auto& ele : mpp){
-            if(ele.second>maxi){
-                maxi=ele.second;
-             ans=ele.first;
+        int maxi=arr[0];
+        int ans=1950;
+        for(int i=1;i<101;++i){
+            arr[i]+=arr[i-1];
+            if(arr[i]>maxi){
+                maxi=arr[i];
+                ans=1950+i;
             }
-            else if(ele.second==maxi && ele.first<ans)
-            ans=ele.first;
         }
         return ans;
     }
