@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3429-special-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
