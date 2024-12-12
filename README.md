@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
