@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
