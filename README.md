@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
