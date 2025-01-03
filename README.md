@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
+| [2358-number-of-ways-to-split-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
