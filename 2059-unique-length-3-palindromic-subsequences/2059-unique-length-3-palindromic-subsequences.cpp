@@ -2,24 +2,21 @@ class Solution {
 public:
     int countPalindromicSubsequence(string s) {
         int n = s.size();
-        // To find all the characters
-        unordered_set<char> letters;
-        for (int i = 0; i < n; i++) {
-            letters.insert(s[i]);
-        }
-        int ans = 0;
-        // finding first and last index of every character present
-        for (char letter : letters) {
-            int first_index = -1;
-            int last_index = -1;
-            for (int i = 0; i < n; i++) {
-                if (s[i] == letter) {
-                    if (first_index == -1)
-                        first_index = i;
-                    else
-                        last_index = i;
-                }
+        vector<pair<int,int>> arr(26,{-1,-1});
+        for(int i=0;i<n;i++){
+            char ch=s[i];
+            int index=ch-'a';
+            if(arr[index].first==-1){
+                arr[index].first=i;
             }
+            else arr[index].second=i;
+        }
+        int ans=0;
+        for (int i=0;i<26;i++) {
+            int first_index=arr[i].first;
+            int last_index=arr[i].second;
+            if(first_index==-1) 
+                continue;
             unordered_set<char> st;
             for (int i = first_index+1; i < last_index; i++) {
                 st.insert(s[i]);
