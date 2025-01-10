@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
