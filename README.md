@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
