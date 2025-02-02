@@ -1,23 +1,16 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-          int n = nums.size();
-        int count = 0;
-
-        for (int i = 1; i < n; i++) {
-            if (nums[i] < nums[i - 1]) {
-                count++;
-                if (count > 1) {
-                    return false;
-                }
+        int n=nums.size();
+        int cnt=0;
+        for(int i=1;i<n;i++){
+            if(nums[i-1]>nums[i]){
+                cnt++;
             }
+            if(cnt>1) return false;
         }
-
-        // Check if the last element is smaller than the first element
-        if (nums[n - 1] > nums[0]) {
-            count++;
-        }
-
-        return count <= 1;
+        if(nums[0]<nums[n-1]) cnt++;
+        if(cnt>1) return false;
+        return true;
     }
 };
