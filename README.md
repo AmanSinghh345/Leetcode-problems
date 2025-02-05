@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
