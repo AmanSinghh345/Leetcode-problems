@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0822-unique-morse-code-words](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
+| [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
