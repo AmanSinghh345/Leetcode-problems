@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 ## Union Find
 |  |
 | ------- |
