@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2556-convert-the-temperature) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
