@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2128-reverse-prefix-of-word](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
