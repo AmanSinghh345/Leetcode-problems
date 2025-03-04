@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
