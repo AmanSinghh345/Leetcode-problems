@@ -23,22 +23,27 @@ bool solveMemo(vector<int>&nums , int target , int i, vector<vector<int>>&dp){
    return dp[target][i];
 }
 // tabulation 
-bool solveTebu(vector<int>&nums , int target){
+bool solveTebu(vector<int>& nums, int target) {
     int n = nums.size();
-     vector<vector<bool>>dp(target+1,vector<bool>(n+1,0));
-    for(int col=0;col<n ;col++){
-        dp[0][col] = true;
-     }
-   for(int t=1;t<=target;t++){
-    for(int i = n-1 ;i>=0;i--){
-     bool inc = dp[target-nums[i]][i+1];
-    bool exc =  dp[target][i+1];
+    vector<vector<bool>> dp(target + 1, vector<bool>(n + 1, false));
 
-    dp[target][i] = inc || exc;
+    // Base case: sum 0 is always possible
+    for (int i = 0; i <= n; i++) {
+        dp[0][i] = true;
     }
-   }
-   return dp[target][0];
+
+    for (int t = 1; t <= target; t++) {
+        for (int i = n - 1; i >= 0; i--) {
+            bool exc = dp[t][i + 1];
+            bool inc = (t >= nums[i]) ? dp[t - nums[i]][i + 1] : false;
+
+            dp[t][i] = inc || exc;
+        }
+    }
+
+    return dp[target][0];
 }
+
 
 
     bool canPartition(vector<int>& nums) {
@@ -50,11 +55,11 @@ bool solveTebu(vector<int>&nums , int target){
        // return solve(nums,target ,0);
 
         // top-downapproach
-         int i = 0;
-         vector<vector<int>>dp(target+1,vector<int>(n,-1));
-        return solveMemo(nums,target,i,dp);
+        //  int i = 0;
+        //  vector<vector<int>>dp(target+1,vector<int>(n,-1));
+        // return solveMemo(nums,target,i,dp);
 
         //tabulation method
-     // return  solveTebu(nums,target);
+      return  solveTebu(nums,target);
     }
 };
