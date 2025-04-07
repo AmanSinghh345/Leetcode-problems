@@ -49,17 +49,17 @@ bool solveTebu(vector<int>& nums, int target) {
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
        int sum = accumulate(nums.begin(),nums.end(),0);
-       if((sum%2) !=0) return false;
-        int target = sum>>1;
+       if(sum & 1 ) return false;
+        int target = sum/2;
         // recursion 
-       // return solve(nums,target ,0);
+        //return solve(nums,target ,0);
 
         // top-downapproach
-        //  int i = 0;
-        //  vector<vector<int>>dp(target+1,vector<int>(n,-1));
-        // return solveMemo(nums,target,i,dp);
+          int i = 0;
+        vector<vector<int>>dp(target+1,vector<int>(n,-1));
+         return solveMemo(nums,target,i,dp);
 
         //tabulation method
-      return  solveTebu(nums,target);
+      //return  solveTebu(nums,target);
     }
 };
