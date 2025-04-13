@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
