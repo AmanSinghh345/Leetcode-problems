@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -915,11 +918,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 ## Union Find
 |  |
@@ -951,4 +956,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
