@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
