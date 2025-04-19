@@ -8,7 +8,7 @@ public:
             temp.push_back(el);
             
         }
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<nums.size()-1;i++){
             temp.pop_front();
             auto low=lower_bound(temp.begin(),temp.end(),lower-nums[i]);
             auto high=upper_bound(temp.begin(),temp.end(),upper-nums[i]);
