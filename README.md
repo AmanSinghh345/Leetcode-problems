@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2249-count-the-hidden-sequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
