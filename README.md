@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0403-frog-jump) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -934,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
