@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
