@@ -2,26 +2,22 @@ class Solution {
 public:
     int shortestSubarray(vector<int>& nums, int k) {
         int n=nums.size();
-        int mini=INT_MAX;
-       bool flag=true;
-       vector<long> prefix(n+1,0);
-            for(int i=0;i<n;i++){
-           prefix[i+1]=prefix[i]+nums[i];
+        vector<long long> prefix(n+1,0);
+        deque<int> deque;
+        int ans=n+1;
+        for(int i=0;i<n;i++){
+            prefix[i+1]=nums[i]+prefix[i];
         }
-        deque<int> dq;
         for(int i=0;i<=n;i++){
-            while(!dq.empty() && prefix[i]-prefix[dq.front()]>=k){
-                mini=min(mini,i-dq.front());
-                flag=false;
-                dq.pop_front();
+            while(!deque.empty() and prefix[i]-prefix[deque.front()]>=k){
+                ans=min(ans,i-deque.front());
+                deque.pop_front();
             }
-            while(!dq.empty()&& prefix[i]<=prefix[dq.back()]){
-                dq.pop_back();
+            while(!deque.empty() and prefix[i]<=prefix[deque.back()]){
+                deque.pop_back();
             }
-            dq.push_back(i);
+            deque.push_back(i);
         }
-        if(flag) return -1;
-        else 
-        return mini;
+        return ans==n+1?-1:ans;
     }
 };
