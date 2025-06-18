@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0665-non-decreasing-array) |
