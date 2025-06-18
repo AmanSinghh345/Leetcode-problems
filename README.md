@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
