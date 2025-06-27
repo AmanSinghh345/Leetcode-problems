@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0263-ugly-number) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
