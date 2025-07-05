@@ -13,12 +13,12 @@ public:
 
         while (n >= m) {
             long long cnt = 0;
-            while (n >= (m << cnt)) {
+            while (n >= (long long)(m *( 1LL<<cnt))) {
                 cnt++;
             }
             cnt--;  // Correct the overstep
             ans += 1LL << cnt;
-            n -= m << cnt;
+            n -= (m*(1LL<<cnt));
         }
 
         if (!sign) ans = -ans;
