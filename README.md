@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
