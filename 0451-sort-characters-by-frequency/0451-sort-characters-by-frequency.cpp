@@ -1,26 +1,28 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char,int> umap;
-        int n=s.size();
-        int maxfreq=0;
-        for(auto c: s){             //O(n)
+        unordered_map<char, int> umap;
+        int maxfreq = 0;
+        
+        for (char c : s) {
             umap[c]++;
-            maxfreq=max(maxfreq,umap[c]);
+            maxfreq = max(maxfreq, umap[c]);
         }
 
-        //create a bucket
-        vector<vector<char>> bucket(maxfreq+1);      
-        for(auto& [ch,f]: umap){        //O(m)
-            bucket[f].push_back(ch);
+        vector<vector<char>> bucket(maxfreq + 1);
+        for (auto& [ch, freq] : umap) {
+            bucket[freq].push_back(ch);
         }
-        string ans="";
-        for(int i=maxfreq;i>=0;i--){        //O(n)
-            for(int j=0;j<bucket[i].size();j++){
-                ans+=string(i,bucket[i][j]);
+
+        string ans = "";
+        for (int i = maxfreq; i >= 1; i--) {
+            for (char ch : bucket[i]) {
+                ans += string(i, ch);
             }
         }
+
         return ans;
+
+        // tc: O(n), sc: O(n)
     }
-    // tc O(n) sc O(n)
 };
