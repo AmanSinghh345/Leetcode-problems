@@ -1,20 +1,21 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char, int> freq;
-        for (char c : s) {
-            freq[c]++;
+        int n=s.size();
+        map<char,int> map;
+        for(auto& it:s){       //O(n)
+            map[it]++;
         }
-
-        vector<pair<char, int>> freqVec(freq.begin(), freq.end());
-        sort(freqVec.begin(), freqVec.end(), [](pair<char, int>& a, pair<char, int>& b) {
-            return a.second > b.second;
-        });
-        string result = "";
-        for (auto& p : freqVec) {
-            result += string(p.second, p.first);
+        multimap<int,char,greater<int>> mmap;
+        for(auto& it:map){       //    O(mlog(m)) m is number of unique character
+            mmap.insert({it.second,it.first});
         }
+        string ans="";
+        for(auto& it:mmap){         // O(mlog(m))
+            ans+=string(it.first,it.second);
+        }
+        return ans;
 
-        return result;
+        // tc : O(n) sc : O(n)
     }
 };
