@@ -1,21 +1,26 @@
 class Solution {
 public:
     string frequencySort(string s) {
+        unordered_map<char,int> umap;
         int n=s.size();
-        map<char,int> map;
-        for(auto& it:s){       //O(n)
-            map[it]++;
+        int maxfreq=0;
+        for(auto c: s){             //O(n)
+            umap[c]++;
+            maxfreq=max(maxfreq,umap[c]);
         }
-        multimap<int,char,greater<int>> mmap;
-        for(auto& it:map){       //    O(mlog(m)) m is number of unique character
-            mmap.insert({it.second,it.first});
+
+        //create a bucket
+        vector<vector<char>> bucket(maxfreq+1);      
+        for(auto& [ch,f]: umap){        //O(m)
+            bucket[f].push_back(ch);
         }
         string ans="";
-        for(auto& it:mmap){         // O(mlog(m))
-            ans+=string(it.first,it.second);
+        for(int i=maxfreq;i>=0;i--){        //O(n)
+            for(int j=0;j<bucket[i].size();j++){
+                ans+=string(i,bucket[i][j]);
+            }
         }
         return ans;
-
-        // tc : O(n + mlog(m)) sc : O(n)
     }
+    // tc O(n) sc O(n)
 };
