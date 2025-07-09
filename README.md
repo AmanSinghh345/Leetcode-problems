@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0338-counting-bits) |
