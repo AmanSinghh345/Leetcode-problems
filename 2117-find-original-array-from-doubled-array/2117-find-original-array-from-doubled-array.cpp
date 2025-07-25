@@ -1,37 +1,21 @@
 class Solution {
 public:
     vector<int> findOriginalArray(vector<int>& changed) {
-        sort(changed.begin(),changed.end());
         int n=changed.size();
-        vector<int> ans;
-        if(n&1) return ans;
-        int l=n-2,r=n-1;
-        while(r>0 and l>=0){
-            if( changed[l]*2==changed[r]){
-                if(l==r){
-                    if(l>=1) l--;
-                }
-                ans.push_back(changed[l]);
-                changed[l]=-1;
-                changed[r]=-1;
-                if(l>=1)
-                l--;
-            }
-            else{
-                while(l>=0 and changed[l]*2!=changed[r]){
-                    l--;
-                }
-            }
-            while(r>0 and changed[r]==-1){
-                r--;
-            }
-        }
+        if(n&1) return {};
+        map<int,int> mp;
+        sort(changed.begin(),changed.end());
         for(int i=0;i<n;i++){
-            if(changed[i]!=-1){
-                vector<int> temp;
-                return temp;
-            }
+            mp[changed[i]]++;
+        }
+        vector<int> ans;
+        for(int i=0;i<n;i++){
+            if(mp[changed[i]]==0) continue;
+            if(mp[changed[i]*2]==0) return {};
+            ans.push_back(changed[i]);
+            mp[changed[i]]--;
+            mp[changed[i]*2]--;
         }
         return ans;
-        }
+    }
 };
