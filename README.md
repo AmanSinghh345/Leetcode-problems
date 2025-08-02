@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
