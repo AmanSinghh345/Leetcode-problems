@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
+| [0826-soup-servings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0826-soup-servings) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -1162,4 +1164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
