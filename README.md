@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0820-find-eventual-safe-states) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
