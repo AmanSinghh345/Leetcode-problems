@@ -1,44 +1,40 @@
 class Solution {
 public:
+    bool dfs(vector<vector<int>>& adj, int node, vector<int>& vis, stack<int>& st) {
+        vis[node] = 1; // visiting
+        for (auto &it : adj[node]) {
+            if (vis[it] == 0) {
+                if (!dfs(adj, it, vis, st)) return false; // cycle detected in recursion
+            } else if (vis[it] == 1) {
+                return false; // back edge -> cycle
+            }
+        }
+        vis[node] = 2; // processed
+        st.push(node);
+        return true;
+    }
+
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n=numCourses;
+        int n = numCourses;
         vector<vector<int>> adj(n);
-        for(int i=0;i<prerequisites.size();i++)
-        {
-            int u=prerequisites[i][1];
-            int v=prerequisites[i][0];
+        for (auto &p : prerequisites) {
+            int u = p[1], v = p[0];
             adj[u].push_back(v);
         }
-        vector<int> inDegree(n,0);
-        for(int i=0;i<n;i++)
-        {
-            for(auto& it: adj[i])
-            {
-                inDegree[it]++;
+
+        stack<int> st;
+        vector<int> vis(n, 0);
+        for (int i = 0; i < n; i++) {
+            if (vis[i] == 0) {
+                if (!dfs(adj, i, vis, st)) return {}; // cycle detected
             }
         }
-        queue<int> q;
-        for(int i=0;i<n;i++)
-        {
-            if(inDegree[i]==0)
-             {
-                q.push(i);
-             }
-        }
+
         vector<int> ans;
-        while(!q.empty())
-        {
-            int node=q.front();
-            q.pop();
-            ans.push_back(node);
-            for(auto& it : adj[node])
-            {
-                inDegree[it]--;
-                if(inDegree[it]==0) q.push(it);
-            }
+        while (!st.empty()) {
+            ans.push_back(st.top());
+            st.pop();
         }
-        if(ans.size()!=n) return {};
         return ans;
-        
     }
 };
