@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0665-non-decreasing-array) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
