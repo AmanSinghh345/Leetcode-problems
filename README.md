@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0137-single-number-ii) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0494-target-sum) |
