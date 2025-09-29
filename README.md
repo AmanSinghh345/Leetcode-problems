@@ -1113,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1558-course-schedule-iv) |
+| [1916-find-center-of-star-graph](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2201-valid-arrangement-of-pairs) |
