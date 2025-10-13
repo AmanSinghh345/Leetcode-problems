@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0069-sqrtx) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3199-distribute-candies-among-children-i) |
