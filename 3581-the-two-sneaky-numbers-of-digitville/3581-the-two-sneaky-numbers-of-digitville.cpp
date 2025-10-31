@@ -1,18 +1,14 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-     sort(nums.begin(),nums.end());
-     int count=0;
-     vector<int> ans;
-     for(int i=0;i<nums.size()-1;i++){
-        if(nums[i]==nums[i+1]){
-         ans.push_back(nums[i]);
-         count++;
-         if(count==2) break;
-
+        int n=nums.size();
+        unordered_map<int,int> umap;
+        vector<int> ans;
+        for(int i=0;i<n;i++)
+        {
+            umap[nums[i]]++;
+            if(umap[nums[i]]==2) ans.push_back(nums[i]);
         }
-     }
-
-return ans;
+        return ans;
     }
 };
