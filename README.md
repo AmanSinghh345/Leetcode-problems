@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0665-non-decreasing-array) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
