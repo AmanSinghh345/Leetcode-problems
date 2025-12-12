@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
