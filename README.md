@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1448-maximum-69-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
