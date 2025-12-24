@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
