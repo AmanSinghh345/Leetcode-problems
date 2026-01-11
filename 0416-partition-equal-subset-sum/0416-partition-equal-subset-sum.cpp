@@ -2,17 +2,17 @@ class Solution {
 public:
     bool canPartition(vector<int>& nums) {
         int total=accumulate(nums.begin(),nums.end(),0);
+        int target=total/2;
         if(total&1) return false;
-        int req=total/2;
-        vector<bool> dp(req+1,false);
-        dp[0]=true;
+        vector<bool> dp(target+1,false);
+        dp[0]=true; //not take case
         for(int x:nums)
         {
-            for(int target=req;target>=x;target--)
+            for(int sum=target;sum>=x;sum--)
             {
-                dp[target]=dp[target]||dp[target-x];
+                dp[sum]=dp[sum] || dp[sum-x];
             }
         }
-        return dp[req];
+        return dp[target];
     }
 };
