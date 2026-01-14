@@ -11,12 +11,11 @@
  */
 class Solution {
 public:
-    bool f(TreeNode* node0,TreeNode* node1)
+    bool f(TreeNode* p,TreeNode* q)
     {
-        if(node0==nullptr or node1==nullptr) return node0==node1;
-        if(node0->val!=node1->val) return false;
-
-        return f(node0->left,node1->right) and f(node0->right,node1->left);
+        if(p==NULL or q==NULL) return p==q;
+        if(p->val!=q->val) return false;
+        return f(p->left,q->right) and f(p->right,q->left);
     }
     bool isSymmetric(TreeNode* root) {
         if(root==NULL) return true;
