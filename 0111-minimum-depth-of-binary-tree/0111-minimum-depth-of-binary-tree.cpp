@@ -11,20 +11,25 @@
  */
 class Solution {
 public:
-int minH=0;
-    int dfs(TreeNode* root,int& minH)
-    {
-        if(root==NULL) return 0;
-        int l=dfs(root->left,minH);
-        int r=dfs(root->right,minH);
-        minH=min(l,r);
-        return 1+min(l,r);
-
-    }
     int minDepth(TreeNode* root) {
-       if(root==nullptr) return 0;
-       if(root->left==nullptr) return 1+minDepth(root->right);
-       if(!root->right) return 1+minDepth(root->left);
-       return 1+min(minDepth(root->left),minDepth(root->right));
+       if(root==NULL) return 0;
+       queue<TreeNode*> q;
+       q.push(root);
+       int depth=1;
+       while(!q.empty())
+       {
+         int sz=q.size();
+         for(int i=0;i<sz;i++)
+         {
+            TreeNode* node=q.front();
+            q.pop();
+            if(node->left ==NULL and node->right==NULL) return depth ;//first leaf node
+            if(node->left!=NULL) q.push(node->left);
+            if(node->right!=NULL) q.push(node->right);
+            
+         }
+         depth++;
+       } 
+       return depth;
     }
 };
