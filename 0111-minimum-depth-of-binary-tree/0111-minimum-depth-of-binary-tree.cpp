@@ -11,14 +11,20 @@
  */
 class Solution {
 public:
-    
+int minH=0;
+    int dfs(TreeNode* root,int& minH)
+    {
+        if(root==NULL) return 0;
+        int l=dfs(root->left,minH);
+        int r=dfs(root->right,minH);
+        minH=min(l,r);
+        return 1+min(l,r);
+
+    }
     int minDepth(TreeNode* root) {
-        if(root==nullptr) return 0;
-        int lh=minDepth(root->left);
-        int rh=minDepth(root->right);
-        
-        return 1+ (min(lh,rh)?min(lh,rh):max(lh,rh));
-         
-        
+       if(root==nullptr) return 0;
+       if(root->left==nullptr) return 1+minDepth(root->right);
+       if(!root->right) return 1+minDepth(root->left);
+       return 1+min(minDepth(root->left),minDepth(root->right));
     }
 };
