@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
-    int f(TreeNode* root,int& ans)
-    {
-        if(root==NULL) return 0;
-        int left=f(root->left,ans);
-        int right=f(root->right,ans);
-        ans=max(ans,left+right);
-        return 1+max(left,right);
-    }
+  int diameter = 0;
+
+int dfs(TreeNode* root) {
+    if (!root) return 0;
+
+    int l = dfs(root->left);
+    int r = dfs(root->right);
+
+    diameter = max(diameter, l + r);
+
+    return max(l, r) + 1;
+}
+
     int diameterOfBinaryTree(TreeNode* root) {
-        int ans=0;
-       int val= f(root,ans);
-        return ans;
+      dfs(root);
+      return diameter;
     }
 };
