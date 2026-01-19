@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0952-word-subsets) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1177,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
