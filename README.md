@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3394-minimum-array-end) |
