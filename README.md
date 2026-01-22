@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1972-rotating-the-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2058-concatenation-of-array) |
