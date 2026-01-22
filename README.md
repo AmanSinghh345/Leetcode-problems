@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
