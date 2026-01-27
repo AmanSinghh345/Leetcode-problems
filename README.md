@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1288,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1389,4 +1391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
