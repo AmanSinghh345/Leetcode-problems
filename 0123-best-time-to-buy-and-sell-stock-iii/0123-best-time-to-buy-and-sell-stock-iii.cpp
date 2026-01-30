@@ -2,10 +2,12 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<vector<int>>> dp (n,vector<vector<int>> (2,vector<int> (3,-1)));
+        // vector<vector<vector<int>>> dp (n,vector<vector<int>> (2,vector<int> (3,-1)));
+        int dp[1000001][2][3];
+        memset(dp,-1,sizeof(dp));
         return f(0,1,2,prices,dp);
     }
-    int f(int i,int buy,int cap,vector<int>& prices,vector<vector<vector<int>>> & dp)
+    int f(int i,int buy,int cap,vector<int>& prices,int dp[][2][3])
     {
         if(i==prices.size()) return 0;
         if(cap==0) return 0;
