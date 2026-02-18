@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
