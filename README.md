@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
