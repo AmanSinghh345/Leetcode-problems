@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
