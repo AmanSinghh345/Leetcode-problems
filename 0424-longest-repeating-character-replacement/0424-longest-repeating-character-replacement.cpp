@@ -1,24 +1,22 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int n=s.size();
         unordered_map<char,int> umap;
-        int l=0;
-        int curMax=0;
+        int n=s.size();
         int ans=0;
+        int l=0;
+        int maxFreq=0;
         for(int r=0;r<n;r++)
         {
             umap[s[r]]++;
-            curMax=max(curMax,umap[s[r]]);
-        
-            while((r-l+1)-curMax>k)
-            {
+            maxFreq=max(maxFreq,umap[s[r]]);
+            int len=r-l+1;
+            int req=len-maxFreq;
+            if(req<=k) ans=max(ans,len);
+            else {
                 umap[s[l]]--;
                 l++;
             }
-            ans=max(ans,r-l+1);
-
-
         }
         return ans;
     }
