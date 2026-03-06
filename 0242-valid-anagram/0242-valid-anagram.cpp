@@ -10,9 +10,9 @@ public:
             u1[s[i]]++;
             u2[t[i]]++;
         }
-        for(auto it=u1.begin();it!=u1.end();it++)
+        for(auto & it : u1)
         {
-            if(it->second!=u2[it->first]) return false;
+            if(it.second!=u2[it.first]) return false;
         }
         return true;
     }
