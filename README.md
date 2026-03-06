@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
