@@ -4,15 +4,15 @@ public:
         int n=s.size();
         int m=t.size();
         if(n!=m) return false;
-        unordered_map<char,int> u1,u2;
+        vector<int> freq(26,0);
         for(int i=0;i<n;i++)
         {
-            u1[s[i]]++;
-            u2[t[i]]++;
+            freq[s[i]-'a']++;
+            freq[t[i]-'a']--;
         }
-        for(auto & it : u1)
+        for(int x:freq)
         {
-            if(it.second!=u2[it.first]) return false;
+            if(x!=0) return false;
         }
         return true;
     }
