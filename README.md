@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
@@ -921,10 +925,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1264,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Stack
@@ -1449,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Graph Theory
 |  |
 | ------- |
