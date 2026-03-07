@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -1452,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
