@@ -1468,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
