@@ -15,26 +15,44 @@ public:
     }
 
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
+       int n=numCourses;
+        vector<int> vis(n,0);
         vector<vector<int>> adj(n);
-        for (auto &p : prerequisites) {
-            int u = p[1], v = p[0];
-            adj[u].push_back(v);
+        for(int i=0;i<prerequisites.size();i++)
+        {
+            int u=prerequisites[i][0];
+            int v=prerequisites[i][1];
+
+            adj[v].push_back(u);
         }
 
-        stack<int> st;
-        vector<int> vis(n, 0);
-        for (int i = 0; i < n; i++) {
-            if (vis[i] == 0) {
-                if (!dfs(adj, i, vis, st)) return {}; // cycle detected
+        vector<int> indegree(n);
+        for(int i=0;i<n;i++)
+        {
+            for(auto&it:adj[i])
+            {
+                indegree[it]++;
             }
         }
 
-        vector<int> ans;
-        while (!st.empty()) {
-            ans.push_back(st.top());
-            st.pop();
+        queue<int> q;
+        for(int i=0;i<n;i++)
+        {
+            if(indegree[i]==0 ) q.push(i);
         }
-        return ans;
+        vector<int> ans;
+        while(!q.empty())
+        {
+            int node=q.front();
+            q.pop();
+            ans.push_back(node);
+
+            for(auto& it : adj[node]){
+                indegree[it]--;
+                if(indegree[it]==0) q.push(it);
+            }
+        }
+        if(ans.size()==n) return ans;
+        return {};
     }
 };
