@@ -1,21 +1,15 @@
 class Solution {
 public:
-    int recurr(int n ,int cnt,vector<int>& dp)
-    {
-        if(n==0) return 1;
-        if(n==1) return 1;
+    int recurr(int n,vector<int>& dp){
+        if(n==0 or n==1) return 1;
         if(dp[n]!=-1) return dp[n];
-        int a=recurr(n-1,cnt,dp);
-        int b=recurr(n-2,cnt,dp);
+        int a=recurr(n-1,dp);
+        int b=recurr(n-2,dp);
         return dp[n]=a+b;
     }
     int climbStairs(int n) {
-
-        int cnt=0;
         vector<int> dp(n+1,-1);
-        int ans=recurr(n,cnt,dp);
-
+       int ans = recurr(n,dp);
         return ans;
-         
     }
 };
