@@ -1,43 +1,35 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int n=s.size();
-        int m=t.size();
-        unordered_map<char,int> umap;
-        for(int i=0;i<m;i++)
+        unordered_map<char,int> T;
+        for(int i=0;i<t.size();i++)
         {
-            umap[t[i]]++;
+            T[t[i]]++;
         }
-
-        int cnt=umap.size();
-        int have=0;
-
-        unordered_map<char,int> temp;
-        int l=0;
-        int r;
-        int minLen=INT_MAX;
-        int start=0;
-
-        for(r=0;r<n;r++)
+        unordered_map<char,int> S;
+        int minlen=1e5+7;
+        int start=-1;
+        int l=0,r=0;
+        int cnt=0;  
+        while(r<s.size())
         {
-            temp[s[r]]++;
-
-            if(umap.count(s[r]) and umap[s[r]]==temp[s[r]]) have++;
-
-            while(have==cnt)
+            S[s[r]]++;
+            if(T.find(s[r])!=T.end() and T[s[r]]==S[s[r]]) cnt++;
+           
+            while(cnt==T.size())    
             {
-                if((r-l+1)<minLen)
-                {
-                    minLen=r-l+1;
-                    start=l;
+                if(r-l+1<minlen){
+                   minlen=min(minlen,r-l+1);
+                   start=l;
                 }
-                temp[s[l]]--;
-                if(umap.count(s[l]) and temp[s[l]]<umap[s[l]]) have--;
+                S[s[l]]--;
+                if(T.find(s[l])!=T.end() and S[s[l]]<T[s[l]]) cnt--;
                 l++;
             }
-           
+            r++;
         }
-       if(minLen==INT_MAX) return "";
-       return s.substr(start,minLen);
+        if(start==-1) return "";
+        else
+        return s.substr(start,minlen);
     }
 };
