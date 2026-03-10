@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1396-count-servers-that-communicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
