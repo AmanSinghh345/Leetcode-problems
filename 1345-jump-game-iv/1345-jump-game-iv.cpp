@@ -6,7 +6,7 @@ public:
         for (int i = 0; i < n; i++) {
             umap[arr[i]].push_back(i);
         }
-       
+        // not created the graph because tc and sc will become o(n2) 
         // bfs to find the minimum ops
         queue<int> q;
         vector<int> vis(n, 0);
