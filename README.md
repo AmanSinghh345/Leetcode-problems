@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String Matching
 |  |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
