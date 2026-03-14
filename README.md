@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3447-clear-digits) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1106,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -1305,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
 |  |
@@ -1389,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1448,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
