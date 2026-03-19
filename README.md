@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0822-unique-morse-code-words](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
