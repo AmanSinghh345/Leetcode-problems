@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
