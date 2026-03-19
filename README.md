@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
