@@ -17,13 +17,8 @@ public:
     }
     int shipWithinDays(vector<int>& weights, int days) {
         int n=weights.size();
-        vector<int> pf(n,0);
-        pf[0]=weights[0];
-        for(int i=1;i<n;i++){
-            pf[i]=pf[i-1]+weights[i];
-        }
-        
-        int l=*max_element(weights.begin(),weights.end()),r=500*50000;
+       
+        int l=*max_element(weights.begin(),weights.end()),r=accumulate(weights.begin(),weights.end(),0);
         int ans=r;
         while(l<=r){
             int mid=(l+r)/2;
