@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
@@ -1315,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1367,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Graph
 |  |
@@ -1411,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
@@ -1472,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
