@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0665-non-decreasing-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0733-flood-fill) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0826-soup-servings) |
@@ -1416,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
@@ -1480,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
