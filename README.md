@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1580-shuffle-the-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
 | [1463-cherry-pickup-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1463-cherry-pickup-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1256,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1396-count-servers-that-communicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1463-cherry-pickup-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1876-map-of-highest-peak) |
