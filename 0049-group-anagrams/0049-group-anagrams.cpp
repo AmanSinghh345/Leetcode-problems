@@ -10,8 +10,7 @@ public:
             umap[s].push_back(strs[i]);
         }
         for(auto [a,b] : umap){
-            vector<string> temp(b.begin(),b.end());
-            ans.push_back(temp);
+             ans.push_back(b);
         }
         return ans;
     }
