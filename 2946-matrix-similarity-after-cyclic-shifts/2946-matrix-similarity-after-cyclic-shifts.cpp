@@ -5,14 +5,7 @@ public:
         int n=mat[0].size();
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                int ni=i;
-                 int nj;
-                if(i&1) {
-                    nj=(j+k)%n;
-                }
-                else nj=(j+n-k%n)%n;
-               
-                if(mat[i][j]!=mat[ni][nj]) return false;
+                if(mat[i][j]!=mat[i][(j+k)%n]) return false;
             }
         }
         return true;
