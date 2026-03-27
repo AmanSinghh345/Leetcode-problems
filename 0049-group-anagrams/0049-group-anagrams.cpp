@@ -1,12 +1,21 @@
 class Solution {
 public:
     int mod=1e9+7;
+    vector<int> generatePrimes(int n){
+        int limit=10000;
+        vector<bool> isPrime(limit,true);
+        vector<int> res;
+        isPrime[0]=isPrime[1]=false;
+        for(int i=2;i<limit && res.size()<n ;i++){
+            if(isPrime[i]){
+                res.push_back(i);
+                for(int j=1LL*i*i;j<limit;j+=i) isPrime[j]=false;
+            }
+        }
+        return res;
+    }
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        vector<int> primes={
-            2,3,5,7,11,13,17,19,23,29,
-            31,37,41,43,47,53,59,61,
-            67,71,73,79,83,87,89,97,101
-        };
+        vector<int> primes=generatePrimes(26);
         
         unordered_map<long long, vector<string>> umap;
         vector<vector<string>> ans ;
