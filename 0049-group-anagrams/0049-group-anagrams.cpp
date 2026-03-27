@@ -5,9 +5,9 @@ public:
         vector<vector<string>> ans;
         unordered_map<string, vector<string>> umap;
 
-        for(auto & s : strs){
+        for(const auto & s : strs){
             vector<int> freq(26,0);
-            for(char &c:s){
+            for(const char &c:s){
                 freq[c-'a']++;
             }
             string key="";
@@ -17,7 +17,7 @@ public:
 
             umap[key].push_back(s);
         }
-        for(auto [a,b]:umap){
+        for(const auto &[a,b]:umap){
             ans.push_back(b);
         }
         return ans;
