@@ -12,6 +12,7 @@ public:
                 else  ans++;
             }
         }
-        return abs(cnt)+ans;
+        ans+=cnt;
+        return ans;
     }
 };
