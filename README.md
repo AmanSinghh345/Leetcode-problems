@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0146-lru-cache) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
