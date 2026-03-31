@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0189-rotate-array) |
