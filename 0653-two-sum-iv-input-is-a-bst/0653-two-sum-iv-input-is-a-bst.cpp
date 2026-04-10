@@ -23,12 +23,13 @@ public:
         vector<int> res;
         inorder(root,res);
 
-        int n=res.size();
-        for(int i=0;i<n;i++){
-            if(umap.find(k-res[i])!=umap.end()) return true;
-            umap[res[i]]++;
+        int l=0,r=res.size()-1;
+        while(l<r){
+            int sum=res[l]+res[r];
+            if(sum==k) return true;
+            else if(sum<k) l++;
+            else r--;
         }
         return false;
-
     }
 };
