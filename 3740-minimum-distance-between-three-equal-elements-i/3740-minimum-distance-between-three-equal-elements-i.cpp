@@ -7,16 +7,10 @@ public:
             umap[nums[i]].push_back(i);
         }
         int ans=INT_MAX;
-        for(auto it=umap.begin();it!=umap.end();it++){
-            auto arr=it->second;
-            if(arr.size()>=3){
-                for(int i=0;i<arr.size()-2;i++){
-                    for(int j=i+1;j<arr.size()-1;j++){
-                        for(int k=j+1;k<arr.size();k++){
-                            ans=min(ans,(abs(arr[i]-arr[j])+abs(arr[j]-arr[k])+abs(arr[i]-arr[k])));
-                        }
-                    }
-                }
+        for(auto & it : umap){
+            auto &arr=it.second;
+            for(int i=0;i+2<arr.size();i++){
+                ans=min(ans,abs(arr[i]-arr[i+1])+abs(arr[i+1]-arr[i+2])+abs(arr[i+2]-arr[i]));
             }
         }
         if(ans==INT_MAX) return -1;
