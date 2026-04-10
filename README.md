@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
