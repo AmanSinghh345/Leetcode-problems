@@ -25,13 +25,8 @@ public:
 
         int n=res.size();
         for(int i=0;i<n;i++){
+            if(umap.find(k-res[i])!=umap.end()) return true;
             umap[res[i]]++;
-            if(k-res[i]==res[i]){
-                 if(umap.find(k-res[i])!=umap.end() and  umap[k-res[i]]>1) return true;
-            }
-            else {
-                if(umap.find(k-res[i])!=umap.end()) return true;
-            }
         }
         return false;
 
