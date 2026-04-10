@@ -12,18 +12,9 @@ public:
         return lps;
     }
     string longestPrefix(string s) {
-        string take="";
-        int n=s.size();
-        for(int i=0;i<n-1;i++){
-            take+=s[i];
-        }
-        take+="#";
-        for(int i=1;i<n;i++) {
-            take+=s[i];
-        }
-        vector<int> lps=kmp(take);
-        int sz=lps.size();
-        int len=lps[sz-1];
+        
+        vector<int> lps=kmp(s);
+        int len=lps[(int)lps.size()-1];
         return s.substr(0,len);
     }
 };
