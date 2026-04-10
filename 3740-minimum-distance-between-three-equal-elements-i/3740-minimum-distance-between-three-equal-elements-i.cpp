@@ -10,7 +10,7 @@ public:
         for(auto & it : umap){
             auto &arr=it.second;
             for(int i=0;i+2<arr.size();i++){
-                ans=min(ans,abs(arr[i]-arr[i+1])+abs(arr[i+1]-arr[i+2])+abs(arr[i+2]-arr[i]));
+                ans=min(ans,2*(arr[i+2]-arr[i]));
             }
         }
         if(ans==INT_MAX) return -1;
