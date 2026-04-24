@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3583-count-special-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
