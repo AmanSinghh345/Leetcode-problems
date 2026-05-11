@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0085-maximal-rectangle) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0099-recover-binary-search-tree) |
@@ -1314,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
@@ -1334,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0221-maximal-square) |
