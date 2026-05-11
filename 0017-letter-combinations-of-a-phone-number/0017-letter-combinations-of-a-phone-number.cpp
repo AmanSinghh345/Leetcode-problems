@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void find(int i,string ds,vector<string>& ans,string& digits,vector<string>& phone){
+    void find(int i,string &ds,vector<string>& ans,string& digits,vector<string>& phone){
         
        
         //base case 
@@ -13,9 +13,9 @@ public:
          int d=digits[i]-'0';// char to int
 
          for(int j=0;j<phone[d].size();j++){
-        //take 
-        find(i+1,ds+phone[d][j],ans,digits,phone);
-        
+        ds.push_back(phone[d][j]);
+        find(i+1,ds,ans,digits,phone);
+        ds.pop_back();
          }
 
     }
