@@ -3,37 +3,30 @@ class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
         int n=arr.size();
-        vector<int> nse(n);
         stack<int> st;
-        for(int i=n-1;i>=0;i--){
+        vector<int> pse(n),nse(n);
+        for(int i=0;i<n;i++){
             while(!st.empty() && arr[st.top()]>arr[i]){
                 st.pop();
             }
-            if(st.empty()) {
-                nse[i]=-1;
-                
-            }
-            else{
-                nse[i]=st.top();
-            }
+            if(st.empty()) pse[i]=-1;
+            else pse[i]=st.top();
             st.push(i);
         }
-         int ans=0;
+        while(!st.empty()) st.pop();
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() && arr[st.top()]>=arr[i]) {st.pop();}
+            if(st.empty()) nse[i]=n;
+            else nse[i]=st.top();
+            st.push(i);
+        }
+
+        int ans=0;
         for(int i=0;i<n;i++){
+            int left=i-pse[i];
+            int right=nse[i]-i;
+            ans=(ans+((1LL*left*right)%mod)*1LL*arr[i])%mod;
             
-            int j=i;
-       
-            int contribute;
-            while(j<n){
-                if(nse[j]==-1){
-                 contribute=(n-j)*arr[j];
-                    ans=(ans+contribute)%mod;
-                    break;
-                }
-                contribute=(nse[j]-j)*arr[j];
-                ans=(ans+contribute)%mod;
-                j=nse[j];
-            }
         }
         return ans;
     }
