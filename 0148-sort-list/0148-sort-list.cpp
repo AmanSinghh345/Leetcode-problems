@@ -22,11 +22,10 @@ public:
         sort(arr.begin(),arr.end());
         temp=head;
         for(auto & it : arr){
-            ListNode* newNode=new ListNode(it);
-            head->next=newNode;
-            head=head->next;
+           temp->val=it;
+           temp=temp->next;
         }
-        temp=temp->next;
-        return temp;
+        
+        return head;
     }
 };
