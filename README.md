@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1972-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1149,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
