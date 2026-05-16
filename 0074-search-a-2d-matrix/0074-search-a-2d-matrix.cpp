@@ -10,7 +10,7 @@ public:
            
           int u=0,d=m-1;
           while(u<d){
-            int mid=(u+d+1)/2;
+            int mid=u+(d-u+1)/2;
             if(matrix[mid][0]==target) return true;
             else if(matrix[mid][0]<target) u=mid;
             else d=mid-1;
