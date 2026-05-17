@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2643-row-with-maximum-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1436,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2643-row-with-maximum-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
