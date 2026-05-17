@@ -5,7 +5,7 @@ public:
         long long l = *max_element(nums.begin(), nums.end());
     
         long long r=accumulate(nums.begin(),nums.end(),0LL);
-        
+        long long ans =r;
         while(l<r){
             long long mid=l+(r-l)/2;
             int cnt=1;
@@ -20,12 +20,12 @@ public:
             }
            
             if(cnt<=k){
-            
+                ans=mid;
                 r=mid;
             }
             else l=mid+1;
         }
 
-    return l;
+    return (int)ans;
     }
 };
