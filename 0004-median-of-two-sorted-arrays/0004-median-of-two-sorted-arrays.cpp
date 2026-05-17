@@ -1,32 +1,31 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> a;
-        int i=0,j=0;
-        int n1=nums1.size();
-        int n2=nums2.size();
-        while(i<n1 && j<n2){
-            if(nums1[i]<=nums2[j]){
-                a.push_back(nums1[i]);
-                i++;
-            }
-            else{
-                a.push_back(nums2[j]);
-                j++;
-            }
-        }
-        while(i<n1){
-            a.push_back(nums1[i]);
-            i++;
-        }
-        while(j<n2){
-            a.push_back(nums2[j]);
-            j++;
-        }
+        int m=nums1.size();
+        int n=nums2.size();
+        if(m>n) return findMedianSortedArrays(nums2,nums1);
 
-        if((n1+n2)&1){
-            return (double)a[(n1+n2)/2];
+        int l=0,r=m;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+
+            int cut1=mid;
+            int cut2=(n+m+1)/2-cut1;
+
+            int l1=(cut1==0)?INT_MIN:nums1[cut1-1];
+            int r1=(cut1==m)?INT_MAX:nums1[cut1];
+            int l2=(cut2==0)?INT_MIN:nums2[cut2-1];
+            int r2=(cut2==n)?INT_MAX:nums2[cut2];
+            if(l1<=r2 && l2<=r1){
+                if((n+m)%2==0) {
+                    return (max(l1,l2)+min(r1,r2))/2.0;
+                }
+                else return max(l1,l2);
+            }
+            else if(l1>r2) r=cut1-1;
+            else l=cut1+1;
+
         }
-        return (double)((a[(n1+n2)/2 - 1])+ a[(n1+n2)/2])/2.0;
+        return 0;
     }
 };
