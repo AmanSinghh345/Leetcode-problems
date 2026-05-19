@@ -9,15 +9,12 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_set<ListNode*> umap;
-        while(headB!=NULL){
-            umap.insert(headB);
-            headB=headB->next;
+        ListNode* pA=headA;
+        ListNode* pB=headB;
+        while(pA!=pB){
+            pA=pA?pA->next:headB;
+            pB=pB?pB->next:headA;
         }
-        while(headA!=NULL){
-            if(umap.find(headA)!=umap.end()) return headA;
-            headA=headA->next;
-        }
-        return NULL;
+        return pA;
     }
 };
