@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
