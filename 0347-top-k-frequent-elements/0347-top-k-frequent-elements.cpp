@@ -7,16 +7,19 @@ public:
             freq[x]++;
         }
 
-        priority_queue<pair<int,int> , vector<pair<int,int>> , greater<>> pq;
+        vector<vector<int>> bucket(nums.size()+1);
 
-        for(auto [num, cnt]: freq){
-            pq.push({cnt,num});
-            if(pq.size()>k) pq.pop();
+        for(auto [num,cnt]: freq){
+            bucket[cnt].push_back(num);
         }
+
         vector<int> ans;
-        while(!pq.empty()){
-            ans.push_back(pq.top().second);
-            pq.pop();
+        for(int i=bucket.size()-1;i>=0;i--){
+            for(int j=0;j<bucket[i].size() && ans.size()<k;j++){
+                ans.push_back(bucket[i][j]);
+            
+            }
+                if(ans.size()==k) break;
         }
         return ans;
     }
