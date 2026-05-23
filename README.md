@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0389-find-the-difference) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -1494,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0355-design-twitter) |
@@ -1701,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
