@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1447,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
@@ -1775,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Iterator
 |  |
