@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0066-plus-one) |
