@@ -9,14 +9,14 @@ public:
         
 
         for(int i=m-1;i>=0;i--){
-            vector<unsigned int> curr=dp;
-            for(int j=n-1;j>=0;j--){
+                dp[n]=1;
+            for(int j=0;j<n;j++){
                 if(s[i]==t[j]){
-                    curr[j]=dp[j+1]+dp[j];
+                    dp[j]+=dp[j+1];
                 }
-                else curr[j]=dp[j];
+                
             }
-            dp=curr;
+            
         }
         return (int)dp[0];
     }
