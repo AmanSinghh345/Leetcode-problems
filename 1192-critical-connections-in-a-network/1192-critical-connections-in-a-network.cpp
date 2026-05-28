@@ -33,7 +33,14 @@ public:
         }
         vector<int> tin(n),low(n),vis(n,0);
         vector<vector<int>> bridges;
-        dfs(0,-1,adj,tin,low,vis,bridges);
+        for (int i = 0; i < n; i++) {
+    if (!vis[i]) {
+        dfs(i, -1, adj,
+            low, tin,
+            vis, bridges);
+    }
+    return bridges;
+}
 
         return bridges;
     }
