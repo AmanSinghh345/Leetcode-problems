@@ -4,23 +4,23 @@ public:
         
         int m=word1.size();
         int n=word2.size();
-        vector<vector<int>> dp(m+1,vector<int>(n+1,0));
-        for(int i=0;i<=m;i++){
-            dp[i][n]=m-i;
-        }
+        vector<int> prev(n+1,0),curr(n+1,0);
+      
         for(int j=0;j<=n;j++){
-            dp[m][j]=n-j;
+            prev[j]=n-j;
         }
         for(int i=m-1;i>=0;i--){
+            curr[n]=m-i;
             for(int j=n-1;j>=0;j--){
                 if(word1[i]==word2[j]){
-                    dp[i][j]=dp[i+1][j+1];
+                    curr[j]=prev[j+1];
                 }
                 else{
-                    dp[i][j]=min({1+dp[i+1][j],1+dp[i+1][j+1],1+dp[i][j+1]}); // delete , replace , insert 
+                    curr[j]=min({1+prev[j],1+curr[j+1],1+prev[j+1]}); // delete , replace , insert 
                 }
             }
+            prev=curr;
         }
-        return dp[0][0];
+        return prev[0];
     }
 };
