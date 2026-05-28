@@ -49,17 +49,14 @@ public:
             }
         }
 
-        vector<set<string>> merged(n);
+        vector<vector<string>> merged(n);
         for(auto& it : umap){
             string mail=it.first;
             int ind=it.second;
 
             int ultp=ds.find(ind);
-
-            for(int j=0;j<accounts[ind].size();j++){
-                if(j==0) continue;
-                merged[ultp].insert(accounts[ind][j]);
-            }
+             merged[ultp].push_back(mail);
+           
         }
         for(int i=0;i<n;i++){
             if(merged[i].empty()) continue;
@@ -67,7 +64,7 @@ public:
             vector<string> temp;
             temp.push_back(accounts[i][0]);
 
-            // sort(merged[i].begin(),merged[i].end());
+            sort(merged[i].begin(),merged[i].end());
 
             for(auto& it : merged[i]) temp.push_back(it);
             ans.push_back(temp);
