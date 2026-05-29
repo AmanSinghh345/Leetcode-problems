@@ -15,7 +15,22 @@ public:
         nums.insert(nums.begin(),1);
         nums.push_back(1);
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int> (n,-1));
-        return f(1,n-2,nums,dp);
+        vector<vector<int>> dp(n,vector<int> (n,0));
+    
+
+
+        for(int len=1;len<=n-2;len++){
+            for(int i=1;i<=n-2-len+1;i++){
+                int j=i+len-1;
+                if(i>j) continue;
+                int currMax=INT_MIN;
+                for(int ind=i;ind<=j;ind++){
+                    int val=nums[i-1]*nums[ind]*nums[j+1]+dp[i][ind-1]+dp[ind+1][j];
+                    currMax=max(currMax,val);
+                }
+                dp[i][j]=currMax;
+            }
+        }
+        return dp[1][n-2];
     }
 };
