@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
