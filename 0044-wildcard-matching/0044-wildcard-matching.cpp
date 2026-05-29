@@ -21,7 +21,24 @@ public:
     bool isMatch(string s, string p) {
         int n1=p.size();
         int n2=s.size();
-        vector<vector<int>> dp(n1+1,vector<int> (n2+1,-1));
-        return find(n1,n2,p,s,n1,n2,dp);
+        string a=p;
+        string b=s;
+        
+        vector<vector<bool>> dp(n1+1,vector<bool> (n2+1,false));
+        dp[0][0]=true;
+        for(int i=1;i<=n1;i++){
+            if(a[i-1]=='*') dp[i][0]=true;
+            else break;
+        }
+        for(int i=1;i<=n1;i++){
+            for(int j=1;j<=n2;j++){
+                bool res;
+                if(a[i-1]==b[j-1] || a[i-1]=='?') res=dp[i-1][j-1];
+                else if(a[i-1]=='*') res=dp[i][j-1] || dp[i-1][j];
+                else res=false;
+                dp[i][j]=res;
+            }
+        }
+        return dp[n1][n2];
     }
 };
