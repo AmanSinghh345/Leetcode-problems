@@ -25,24 +25,25 @@ public:
         string b=s;
         
        
-        vector<bool> prev(n2+1,false),curr(n2+1,false);
+        vector<bool> dp(n2+1,false);
         int rowFlag;
         for(int i=1;i<=n1;i++){
             if(a[i-1]=='*') rowFlag=i;
             else break;
         }
-        prev[0]=true;
+        dp[0]=true;
         for(int i=1;i<=n1;i++){
-               curr[0]= i<=rowFlag ? true : false;
+            bool prev=dp[0];
+               dp[0]= i<=rowFlag ? true : false;
             for(int j=1;j<=n2;j++){
-                bool res;
-                if(a[i-1]==b[j-1] || a[i-1]=='?') res=prev[j-1];
-                else if(a[i-1]=='*') res=curr[j-1] ||  prev[j];
-                else res=false;
-                curr[j]=res;
+                bool temp=dp[j];
+                if(a[i-1]==b[j-1] || a[i-1]=='?') dp[j]=prev;
+                else if(a[i-1]=='*') dp[j]=dp[j-1] || temp;
+                else dp[j]=false;
+                prev=temp;
             }
-            prev=curr;
+            
         }
-        return prev[n2];
+        return dp[n2];
     }
 };
