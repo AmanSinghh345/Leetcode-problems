@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
 | [1463-cherry-pickup-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
