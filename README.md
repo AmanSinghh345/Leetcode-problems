@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Greedy
 |  |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Tree
 |  |
@@ -1643,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Divide and Conquer
 |  |
