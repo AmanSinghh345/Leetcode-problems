@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1590-make-sum-divisible-by-p](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1580-shuffle-the-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1721,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
