@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0665-non-decreasing-array) |
@@ -1703,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
