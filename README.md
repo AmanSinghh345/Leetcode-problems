@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2364-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2383-add-two-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2364-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2434-design-a-number-container-system](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -1259,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2364-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
