@@ -14,7 +14,11 @@ public:
     }
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int> dp(n,-1);
-        return find(0,nums,dp);
+        vector<int> dp(n,0);
+        dp[0]=nums[0];
+        for(int i=1;i<n;i++){
+            dp[i]=max(dp[i-1],nums[i]+(i-2>=0?dp[i-2]:0));
+        }
+        return dp[n-1];
     }
 };
