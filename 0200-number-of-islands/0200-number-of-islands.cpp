@@ -13,6 +13,7 @@ public:
             for(int j=0;j<n;j++){
                 if(grid[i][j]=='1' && !vis[i][j]){
                     cnt++;
+                    vis[i][j]=1;
                     q.push({i,j});
                     while(!q.empty()){
                         auto [x,y]=q.front();
