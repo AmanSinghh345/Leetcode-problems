@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1390-four-divisors](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
