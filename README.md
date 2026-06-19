@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1753-path-with-minimum-effort) |
@@ -1727,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
