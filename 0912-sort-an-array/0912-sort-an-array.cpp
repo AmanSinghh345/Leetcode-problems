@@ -34,7 +34,7 @@ public:
         
     }
     void mergeSort(int l,int r,vector<int>& nums){
-        if(l==r) return ;
+        if(l>=r) return ;
         int mid=l+(r-l)/2;
         mergeSort(l,mid,nums);
         mergeSort(mid+1,r,nums);
