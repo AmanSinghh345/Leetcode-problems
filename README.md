@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1395-count-number-of-teams) |
@@ -1964,5 +1967,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
