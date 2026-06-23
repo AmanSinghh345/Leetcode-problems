@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
+| [1122-relative-sort-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1974,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Radix Sort
