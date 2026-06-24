@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0733-flood-fill) |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
