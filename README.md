@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2364-count-number-of-bad-pairs) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
