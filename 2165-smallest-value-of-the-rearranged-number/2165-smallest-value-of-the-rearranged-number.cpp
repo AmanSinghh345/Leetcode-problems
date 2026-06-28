@@ -39,7 +39,7 @@ public:
             }
         }
 
-        long long  ans=stoll(s);
+        long long  ans=stol(s);
         return sign?ans:-ans;
    
     }
