@@ -10,7 +10,7 @@ public:
         int cnt=0;
         for(int x:prefix){
             pref+=x;
-            if(pref>0) cnt++;
+            if(pref) cnt++;
         }
         return cnt;
     }
