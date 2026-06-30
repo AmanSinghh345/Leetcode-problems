@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2262-total-appeal-of-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-total-appeal-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-total-appeal-of-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-total-appeal-of-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2262-total-appeal-of-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-total-appeal-of-a-string) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
