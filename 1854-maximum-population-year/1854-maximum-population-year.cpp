@@ -1,23 +1,21 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        vector<int> prefix(101,0);
-        for(int i=0;i<(int)logs.size();i++){
-                int birth=logs[i][0]-1950;
-                int death=logs[i][1]-1950;
-
-                prefix[birth]++;
-                prefix[death]--;
+        map<int,int> mp;
+        for(auto log:logs){
+            mp[log[0]]++;
+            mp[log[1]]--;
         }
-        int maxi=prefix[0];
-        int idx=0;
-        for(int i=1;i<101;i++){
-            prefix[i]+=prefix[i-1];
-            if(prefix[i]>maxi) {
-                maxi=prefix[i];
-                idx=i;
+        int pref=0;
+        int maxi=0;
+        int ans=-1;
+        for(auto it : mp){
+            pref+=it.second;
+            if(pref>maxi){
+                pref=maxi;
+                ans=it.first;
             }
         }
-        return idx+1950;
+        return ans;
     }
 };
