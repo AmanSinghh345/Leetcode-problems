@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1364-tuple-with-same-product) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1396-count-servers-that-communicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
@@ -1653,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1396-count-servers-that-communicate](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
