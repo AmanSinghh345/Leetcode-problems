@@ -6,11 +6,10 @@ public:
         int cnt=0;
         unordered_map<int,int> umap;
         umap[0]=1;
-        for(int x:nums){
+        for(int x: nums){
             pref+=x;
             if(umap.count(pref-k)) cnt+=umap[pref-k];
             umap[pref]++;
-
         }
         return cnt;
     }
