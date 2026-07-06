@@ -8,7 +8,7 @@ public:
         umap[0]=1;
         for(int x:nums){
             pref+=x;
-            if(umap.count(pref-x)) cnt+=umap[pref-k];
+            if(umap.count(pref-k)) cnt+=umap[pref-k];
             umap[pref]++;
 
         }
