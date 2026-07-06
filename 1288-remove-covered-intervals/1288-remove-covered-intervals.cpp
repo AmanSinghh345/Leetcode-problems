@@ -3,17 +3,19 @@ public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int n=intervals.size();
         int cnt=n;
-        for(int i=0;i<n;i++){
-              if(intervals[i][0]==-1 && intervals[i][1]==-1) continue;
-            for(int j=0;j<n;j++){
-                    if(i==j) continue;
-                if(intervals[j][0]==-1 && intervals[j][1]==-1) continue;
-                if(intervals[i][0]<=intervals[j][0] && intervals[j][1]<=intervals[i][1]) {
-                    intervals[j][0]=-1;
-                    intervals[j][1]=-1;
+        sort(intervals.begin(),intervals.end(),[](auto a ,auto b){
+            if(a[0]!=b[0]) return a[0]<b[0];
+            else return a[1]>b[1];
+        });
+        int l=0,r=1;
+        while(r<n){
+            while(r<n && intervals[l][0]<=intervals[r][0] && intervals[r][1]<=intervals[l][1]){
+                    r++;
                     cnt--;
-                }
             }
+            l=r;
+            r++;
+
         }
         return cnt;
     }
