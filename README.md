@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Greedy
 |  |
@@ -1837,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
