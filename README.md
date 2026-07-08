@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2117-find-original-array-from-doubled-array) |
+| [2121-intervals-between-identical-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2121-intervals-between-identical-elements) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-total-appeal-of-a-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2262-total-appeal-of-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2117-find-original-array-from-doubled-array) |
+| [2121-intervals-between-identical-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2121-intervals-between-identical-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1821,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2121-intervals-between-identical-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2121-intervals-between-identical-elements) |
 | [2145-grid-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
