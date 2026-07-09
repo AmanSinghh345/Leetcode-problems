@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1532,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
 | [3643-zero-array-transformation-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -2045,6 +2048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
@@ -2059,6 +2063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Iterator
 |  |
 | ------- |
