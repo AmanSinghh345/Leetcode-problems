@@ -18,19 +18,19 @@ public:
         while((1<<LOG)<=n) LOG++;
 
         //fartest with one jump;
-        vector<int> next(n);
+        vector<int> nxt(n);
         int r=0;
         for(int i=0;i<n;i++){
             if(r<i) r=i;
             while(r+1<n && val[r+1]-val[i]<=maxDiff){
                 r++;
             }
-            next[i]=r;
+            nxt[i]=r;
         }
 
         vector<vector<int>> up(n,vector<int>(LOG));
         for(int i=0;i<n;i++){
-            up[i][0]=next[i];
+            up[i][0]=nxt[i];
         }
 
         for(int j=1;j<LOG;j++){
