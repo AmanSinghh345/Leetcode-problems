@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3606-coupon-code-validator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1450,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1535,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
 | [3643-zero-array-transformation-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -2049,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
