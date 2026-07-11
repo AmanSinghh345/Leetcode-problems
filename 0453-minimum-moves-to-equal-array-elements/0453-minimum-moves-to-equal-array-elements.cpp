@@ -4,12 +4,11 @@ public:
        sort(nums.begin(),nums.end());
        int n=nums.size();
        int l=0,r=n-1;
-       int add=0;
+       int diff=0;
        while(l<r){
-           int diff=nums[r]+add-(nums[l]+add);
-            add+=diff;
-            r--;
+           diff+=(nums[r]-nums[l]);
+           r--;
        }
-       return add;
+       return diff;
     }
 };
