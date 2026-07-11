@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0645-set-mismatch) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0494-target-sum) |
