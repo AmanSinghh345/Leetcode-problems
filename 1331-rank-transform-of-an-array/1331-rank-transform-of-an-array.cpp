@@ -1,13 +1,17 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        vector<int> temp=arr;
-        sort(arr.begin(),arr.end());
-        arr.erase(unique(arr.begin(),arr.end()),arr.end());
-        for(int i=0;i<temp.size();i++){
-            int ind=lower_bound(arr.begin(),arr.end(),temp[i])-arr.begin()+1;
-            temp[i]=ind;
+        vector<int> sorted=arr;
+        int n=arr.size();
+        sort(sorted.begin(),sorted.end());
+        unordered_map<int,int> umap;
+        for(int x:sorted){
+            if(umap.count(x)==0) umap[x]=(int)umap.size()+1;
         }
-        return temp;
+        vector<int> ans(n);
+        for(int i=0;i<n;i++){
+            ans[i]=umap[arr[i]];
+        }
+        return ans;
     }
 };
