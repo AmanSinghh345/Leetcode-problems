@@ -17,6 +17,7 @@ public:
                 if( val<=high) q.push(val);
             }
         }
+        sort(ans.begin(),ans.end());
         return ans;
     }
 };
