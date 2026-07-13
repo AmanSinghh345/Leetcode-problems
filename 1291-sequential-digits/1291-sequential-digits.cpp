@@ -2,13 +2,21 @@ class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
         vector<int> ans;
-        string s="123456789";
-        for(int len=2;len<=9;len++){
-            for(int i=0;i+len<=9;i++){
-                int val=stoi(s.substr(i,len));
-                if(val>=low && val<=high) ans.push_back(val);
+        queue<int> q;
+        for(int i=1;i<=9;i++) q.push(i);    
+
+        while(!q.empty()){
+            int x=q.front();
+            q.pop();
+
+            if(x>=low && x<=high) ans.push_back(x);
+
+            int ld=x%10;
+            if(ld<9){
+                int val=x*10+ld+1;
+                if( val<=high) q.push(val);
             }
-        } 
-       return ans;
+        }
+        return ans;
     }
 };
