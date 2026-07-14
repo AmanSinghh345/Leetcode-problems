@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1368,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1854-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
@@ -1586,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
