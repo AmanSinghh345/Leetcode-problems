@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3270-find-the-key-of-the-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3379-transformed-array) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
@@ -1587,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
 |  |
