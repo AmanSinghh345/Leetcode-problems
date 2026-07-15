@@ -2131,4 +2131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
