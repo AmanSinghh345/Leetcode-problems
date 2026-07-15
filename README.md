@@ -2068,6 +2068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1114-print-in-order) |
+| [1226-the-dining-philosophers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1226-the-dining-philosophers) |
 ## Doubly-Linked List
 |  |
 | ------- |
