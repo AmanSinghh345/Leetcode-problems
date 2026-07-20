@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1260-shift-2d-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1511,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1806-count-of-matches-in-tournament](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1260-shift-2d-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1301-number-of-paths-with-max-score) |
