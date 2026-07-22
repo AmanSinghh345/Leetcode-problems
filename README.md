@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3567-convert-date-to-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3606-coupon-code-validator) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1591,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3427-special-array-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3620-network-recovery-pathways) |
@@ -1981,6 +1984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
