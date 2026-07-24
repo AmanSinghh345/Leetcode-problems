@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3567-convert-date-to-binary) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3531-count-covered-buildings) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
@@ -1823,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
