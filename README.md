@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1106-parsing-a-boolean-expression) |
+| [1143-longest-common-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1277-count-square-submatrices-with-all-ones) |
