@@ -4,15 +4,16 @@ public:
         string r=s;
         reverse(r.begin(),r.end());
         int n=s.size();
-        vector<int> prev(n+1,0);
+        vector<int> dp(n+1,0);
         for(int i=1;i<=n;i++){
-            vector<int> curr=prev;
+            int prevDiag=0;
             for(int j=1;j<=n;j++){
-                if(s[i-1]==r[j-1]) curr[j]=prev[j-1]+1;
-                else curr[j]=max(prev[j],curr[j-1]);
+                int temp=dp[j];
+                if(s[i-1]==r[j-1]) dp[j]=prevDiag+1;
+                else dp[j]=max(dp[j],dp[j-1]);
+                prevDiag=temp;
             }
-            prev=curr;
         }
-        return prev[n];
+        return dp[n];
     }
 };
