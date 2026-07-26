@@ -10,14 +10,11 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL) return root;
-        if(root==p || root==q) return root;
-
+        if(root==nullptr || root==p || root==q) return root;
         TreeNode* left=lowestCommonAncestor(root->left,p,q);
         TreeNode* right=lowestCommonAncestor(root->right,p,q);
-
-        if(left && right) return root;
-        if(left==NULL) return right;
-        return left;
+        if(left==nullptr) return right;
+        if(right==nullptr) return left;
+        return root;
     }
 };
