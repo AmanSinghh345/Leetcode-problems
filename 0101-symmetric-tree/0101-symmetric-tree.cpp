@@ -11,14 +11,13 @@
  */
 class Solution {
 public:
-    bool f(TreeNode* p,TreeNode* q)
-    {
-        if(p==NULL or q==NULL) return p==q;
-        if(p->val!=q->val) return false;
-        return f(p->left,q->right) and f(p->right,q->left);
+    bool find(TreeNode* p,TreeNode* q){
+        if(p==nullptr || q==nullptr) return p==q;
+
+        return p->val==q->val && find(p->left,q->right) && find(p->right,q->left);
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL) return true;
-        return f(root->left,root->right);
+        if(root==nullptr) return true;
+        return find(root->left,root->right);
     }
 };
