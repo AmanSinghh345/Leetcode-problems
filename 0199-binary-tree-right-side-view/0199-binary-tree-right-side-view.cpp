@@ -11,17 +11,16 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root,int level,vector<int>& ans){
-        if(root==NULL) return ;
-
-        if(level==ans.size()) ans.push_back(root->val);
-        dfs(root->right,level+1,ans);
-        dfs(root->left,level+1,ans);
+    void find(TreeNode* node,int level,vector<int>& ans){
+        if(node==nullptr) return ;
+        if(ans.size()==level) ans.push_back(node->val);
+        if(node->right) find(node->right,level+1,ans);
+        if(node->left) find(node->left,level+1,ans);
     }
     vector<int> rightSideView(TreeNode* root) {
+        if(root==nullptr) return {};
         vector<int> ans;
-        if(root==NULL) return ans;
-        dfs(root,0,ans);
+        find(root,0,ans);
         return ans;
     }
 };
