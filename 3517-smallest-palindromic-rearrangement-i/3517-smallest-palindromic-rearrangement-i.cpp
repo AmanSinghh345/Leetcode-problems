@@ -20,11 +20,8 @@ public:
 
                 int half=freq[i]/2;
          
-                string temp="";
-                for(int j=0;j<half;j++){
-                    temp+=('a'+i);
-                
-                }
+                string temp=string(half,'a'+i);
+              
                 cout<<temp<<endl;;
                 left=left+temp;
                 right=temp+right;
