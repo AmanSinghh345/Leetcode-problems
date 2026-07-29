@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0684-redundant-connection) |
