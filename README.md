@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2833-furthest-point-from-origin](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
