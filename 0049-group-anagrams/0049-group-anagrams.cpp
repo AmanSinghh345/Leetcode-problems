@@ -8,13 +8,9 @@ public:
             umap[p].push_back(s);
         }
         int n=umap.size();
-        vector<vector<string>> ans(n);
-        int i=0;
+        vector<vector<string>> ans;
         for(auto & it : umap){
-            for(string & s:it.second){
-                 ans[i].push_back(s);
-            }
-            i++;
+           ans.push_back(it.second);
         }
         return ans;
     }
