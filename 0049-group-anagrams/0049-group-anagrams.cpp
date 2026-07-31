@@ -1,35 +1,35 @@
 class Solution {
 public:
-    int mod=1e9+7;
-    vector<int> generatePrimes(int n){
-        int limit=10000;
-        vector<bool> isPrime(limit,true);
-        vector<int> res;
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        vector<bool> isPrime(1000,true);
         isPrime[0]=isPrime[1]=false;
-        for(int i=2;i<limit && res.size()<n ;i++){
+ 
+        for(int i=2;i*i<1000;i++){
             if(isPrime[i]){
-                res.push_back(i);
-                for(int j=1LL*i*i;j<limit;j+=i) isPrime[j]=false;
+            for(int j=i*i;j<1000;j+=i){
+                isPrime[j]=false;
+            }
             }
         }
-        return res;
-    }
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        vector<int> primes=generatePrimes(26);
-        
-        unordered_map<long long, vector<string>> umap;
-        vector<vector<string>> ans ;
-        int n=strs.size();
-        for(const auto &s:strs){
-            
+        vector<long long >  arr;
+        long long  mod=1e9+7;
+        for(int i=2;i<1000;i++){
+           
+            if(isPrime[i]) arr.push_back(i); 
+             if(arr.size()==26) break;
+        }
+        unordered_map<long long ,vector<string>> umap;
+        for(string& s:strs){
             long long key=1;
-            for(const auto& c : s){
-                key=(key*1LL*primes[c-'a'])%mod;
+            for(char & c:s){
+                int d=c-'a';
+                key=(1LL*key*arr[d])%mod;
             }
             umap[key].push_back(s);
         }
-        for(const auto &[a,b]:umap){
-            ans.push_back(b);
+        vector<vector<string>> ans;
+        for(auto& [key,group]:umap){
+            ans.push_back(group);
         }
         return ans;
     }
