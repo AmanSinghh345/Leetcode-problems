@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0326-power-of-three) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0312-burst-balloons) |
@@ -1329,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
