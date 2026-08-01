@@ -10,6 +10,6 @@ public:
                 j++;
             }
         }
-        return (dp[n]==INT_MAX?-1:dp[n]);
+        return dp[n];
     }
 };
