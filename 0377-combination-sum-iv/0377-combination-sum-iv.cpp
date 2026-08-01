@@ -11,10 +11,18 @@ public:
         }
         return dp[target]=take;
     }
+    int mod=1e8+7;
     int combinationSum4(vector<int>& nums, int target) {
-        vector<int> dp(target+1,-1);
+        int n=nums.size();
+        vector< unsigned long long > dp(target+1,0);
         dp[0]=1;
-        find(target,nums,dp);
+        for(int i=1;i<=target;i++){
+            for(int j=0;j<n;j++){
+                if((i-nums[j])>=0) 
+                dp[i]+=dp[i-nums[j]];
+               
+            }
+        }
         return dp[target];
     }
 };
