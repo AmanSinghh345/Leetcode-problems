@@ -19,7 +19,7 @@ public:
     for(int len=2;len<=n;len++){
         for(int i=0;i+len-1<n;i++){
                 int j=i+len-1;
-                if(i==j) continue;
+              
                 dp[i][j]=max(nums[i]-dp[i+1][j],nums[j]-dp[i][j-1]);
             
         }
