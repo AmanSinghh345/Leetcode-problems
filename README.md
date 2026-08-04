@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
