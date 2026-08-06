@@ -2265,4 +2265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
