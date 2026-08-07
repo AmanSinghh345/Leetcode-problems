@@ -6,6 +6,10 @@ public:
             int prod=1;
             while(num>0){
                 int ld=num%10;
+                if(ld==0){
+                    prod*=ld;
+                    break;
+                }
                 num/=10;
                 prod*=ld;
             }
