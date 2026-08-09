@@ -23,6 +23,22 @@ public:
         for(int i=n-2;i>=0;i--) suffix[i]=suffix[i+1]+piles[i]; 
    
         vector<vector<int>> dp(n,vector<int> (n+1,-1));
-        return find(0,1,n,suffix,dp);
+
+        for(int i=n-1;i>=0;i--){
+            for(int M=1;M<=n;M++){
+                if(i+2*M>=n) dp[i][M]=suffix[i];
+                else {
+                    int maxi=0;
+                    for(int x=1;x<=2*M;x++){
+                        int oppscore=dp[i+x][max(M,x)];
+                        int myscore=suffix[i]-oppscore;
+                        maxi=max(maxi,myscore);
+                    }
+                     dp[i][M]=maxi;
+                }
+               
+            }
+        }
+        return dp[0][1];
     }
 };
