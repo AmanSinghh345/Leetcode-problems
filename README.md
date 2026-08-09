@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1051-height-checker) |
 | [1063-best-sightseeing-pair](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1122-relative-sort-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
@@ -1489,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -1966,6 +1970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -2265,10 +2270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
 ## Longest Increasing Subsequence
 |  |
