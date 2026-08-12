@@ -2,16 +2,15 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n=s.size();
-        unordered_map<char,int> umap;
-        int l=0;
+        vector<int> freq(256,-1);
         int ans=0;
-        for(int r=0;r<n;r++){
-            umap[s[r]]++;
-            while(umap[s[r]]>1) {
-                umap[s[l]]--;
-                l++;
+        int l=-1;
+        for(int i=0;i<n;i++){
+            if(freq[s[i]]>l){
+                l=freq[s[i]];
             }
-            ans=max(ans,r-l+1);
+            ans=max(ans,i-l);
+            freq[s[i]]=i;
         }
         return ans;
     }
