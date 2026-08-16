@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2089-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2117-find-original-array-from-doubled-array) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1983-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1506,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -2312,12 +2317,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -2326,6 +2333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
