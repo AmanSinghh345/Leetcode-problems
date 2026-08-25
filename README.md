@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0075-sort-colors) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0051-n-queens) |
@@ -1811,6 +1813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0079-word-search) |
