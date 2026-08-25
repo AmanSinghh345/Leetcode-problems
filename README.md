@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3731-find-missing-elements) |
