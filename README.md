@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2833-furthest-point-from-origin](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2833-furthest-point-from-origin) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1794,6 +1795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
