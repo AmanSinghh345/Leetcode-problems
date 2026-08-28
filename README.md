@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -1946,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Divide and Conquer
