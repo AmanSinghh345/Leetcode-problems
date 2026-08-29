@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2751-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -2280,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Iterator
 |  |
