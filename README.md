@@ -1574,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
