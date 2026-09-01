@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3583-count-special-triplets) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3583-count-special-triplets) |
@@ -1429,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Heap (Priority Queue)
 |  |
@@ -1624,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -1898,6 +1902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/3748-sort-matrix-by-diagonals) |
