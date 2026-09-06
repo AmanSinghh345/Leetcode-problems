@@ -12,7 +12,10 @@ public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size();
         int n=m;
-        vector<vector<int>> dp(m,vector<int>(n,INT_MAX));
+        vector<vector<int>> dp(m);
+        for(int i=0;i<m;i++){
+            dp[i].resize(i+1,INT_MAX);
+        }
         return f(0,0,m,n,triangle,dp);
     }
 };
