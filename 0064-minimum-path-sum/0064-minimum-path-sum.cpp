@@ -15,7 +15,7 @@ public:
             for(int j=1;j<n;j++){
                 curr[j]=grid[i][j]+min(prev[j],curr[j-1]);
             }
-            prev=curr;
+            prev.swap(curr);
         }
       
         return prev[n-1];
