@@ -5,10 +5,11 @@ public:
         int n = grid[0].size();
         const int NEG=-1e9;
         vector<vector<int>> prev(n, vector<int>(n,NEG));
-        vector<vector<int>> curr(n,vector<int>(n,NEG));
+
         prev[0][n - 1] = grid[0][0] + grid[0][n - 1];
         int j1 = 0, j2 = n - 1;
         for (int i = 1; i < m; i++) {
+                    vector<vector<int>> curr(n,vector<int>(n,NEG));
             for (int j1 = 0; j1 < n; j1++) {
                 for (int j2 = 0; j2 < n; j2++) {
                     int maxi =NEG;
