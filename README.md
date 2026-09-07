@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1154,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0968-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1025-minimum-cost-for-tickets) |
