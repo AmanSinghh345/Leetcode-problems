@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0822-unique-morse-code-words](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0822-unique-morse-code-words) |
 | [0827-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
@@ -1881,6 +1882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0778-swim-in-rising-water) |
 | [0798-transform-to-chessboard](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0798-transform-to-chessboard) |
 | [0827-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0994-rotting-oranges) |
