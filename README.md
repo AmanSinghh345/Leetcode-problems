@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2393,4 +2395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
