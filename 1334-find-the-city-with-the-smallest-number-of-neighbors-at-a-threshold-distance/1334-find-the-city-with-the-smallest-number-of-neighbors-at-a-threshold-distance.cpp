@@ -1,47 +1,40 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        const int INF=1e9;
-
-        vector<vector<int>> dist(n,vector<int> (n,INF));
-
-        for(int i=0;i<n;i++) dist[i][i]=0;
-
-        for(auto& edge : edges){
-            int u=edge[0];
-            int v=edge[1];
-            int wt=edge[2];
-
-            dist[u][v]=wt;
-            dist[v][u]=wt;
+        vector<vector<int>> adjList(n,vector<int>(n,INT_MAX));
+        for(int i=0;i<n;i++){
+            adjList[i][i]=0;
         }
-
+        for(auto &it : edges){
+            int u=it[0];
+            int v=it[1];
+            int wt=it[2];
+            adjList[u][v]=adjList[v][u]=wt;
+        }
         for(int k=0;k<n;k++){
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    if(dist[i][k]==INF || dist[k][j]==INF) continue;
-
-                    dist[i][j]=min(dist[i][j],dist[i][k]+dist[k][j]);
+                    if(adjList[i][k]!=INT_MAX and adjList[k][j]!=INT_MAX) 
+                        adjList[i][j]=min(adjList[i][j],adjList[i][k]+adjList[k][j]);
                 }
             }
         }
-
-        int city=-1;
-        int minReachable=INT_MAX;
-
+        int ans=-1;
+        int cnt=INT_MAX;
         for(int i=0;i<n;i++){
-            int cnt=0;
+            int curr=0;
             for(int j=0;j<n;j++){
-                if(dist[i][j]<=distanceThreshold){
-                    cnt++;
+                if(i!=j and adjList[i][j]<=distanceThreshold){
+                    curr++;
+                    cout<<curr<<endl;
                 }
             }
-
-            if(cnt<=minReachable){
-                minReachable=cnt;
-                city=i;
+            cout<<curr<<endl;
+            if(curr<=cnt) {
+                cnt=curr;
+                ans=i;
             }
         }
-        return city;
+        return ans;
     }
 };
