@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1068,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1048-longest-string-chain) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -2413,4 +2417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
