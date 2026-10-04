@@ -1,33 +1,28 @@
 class Solution {
 public:
-    bool check(int mid,vector<int>& a,int k){
-        int cnt=0;
-        int sum=0;
-        for(int i=0;i<a.size();i++){
-            if(sum+a[i]>mid){
-                cnt++;
-                sum=a[i];
+    int check(vector<int>& weights,int k){
+        int curr=0;
+        int cnt=1;
+        for(int x:weights){
+            if(x+curr<=k){
+                curr+=x;
             }
-            else sum+=a[i];
+            else{
+                curr=x;
+                cnt++;
+            }
         }
-    
-    cnt++; //last 
-    if(cnt>k) return false;
-    return true; 
+        return cnt;
     }
     int shipWithinDays(vector<int>& weights, int days) {
+        int l=*max_element(weights.begin(),weights.end());
         int n=weights.size();
-       
-        int l=*max_element(weights.begin(),weights.end()),r=accumulate(weights.begin(),weights.end(),0);
-        int ans=r;
-        while(l<=r){
-            int mid=(l+r)/2;
-            if(check(mid,weights,days)){
-                ans=mid;
-                r=mid-1;
-            }
+        int h=n*500;
+        while(l<h){
+            int mid=(l+h)/2;
+            if(check(weights,mid)<=days) h=mid;
             else l=mid+1;
         }
-        return ans;
+        return h;
     }
 };
