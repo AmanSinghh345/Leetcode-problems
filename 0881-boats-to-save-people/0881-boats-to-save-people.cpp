@@ -7,10 +7,7 @@ public:
         int l=0,r=n-1;
         while(l<=r){
             if(people[l]+people[r]<=limit){
-                r--;
-                l++;
-                cnt++;
-                continue;
+               l++;
             }
             r--;
             cnt++;
