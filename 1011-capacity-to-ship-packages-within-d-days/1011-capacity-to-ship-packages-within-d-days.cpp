@@ -23,6 +23,6 @@ public:
             if(check(weights,mid)<=days) h=mid;
             else l=mid+1;
         }
-        return h;
+        return l;
     }
 };
