@@ -6,7 +6,7 @@ public:
         vector<vector<int>> ans;
         for(int i=0;i<n-2;i++){
             int l=i;
-            if(l>0 and nums[l]==nums[l-1]){ l++; continue;}
+            if(l>0 and nums[l]==nums[l-1]){  continue;}
             int j=l+1;
             int k=n-1;
             while(j<k){
