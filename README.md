@@ -2440,4 +2440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
