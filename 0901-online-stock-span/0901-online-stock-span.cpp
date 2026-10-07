@@ -8,19 +8,14 @@ public:
     }
     
     int next(int price) {
-        while(!st.empty() && arr[st.top()]<=price) st.pop();
-        if(!st.empty()){
-            int ans=idx-st.top();
-            arr.push_back(price);
-            st.push(idx);
-            idx++;
-            return ans;
-        }
-        int ans=idx+1;
         arr.push_back(price);
-        st.push(idx);
-        idx++;
-        return ans;
+        while(!st.empty() && arr[st.top()]<=price) st.pop();
+       int ans;
+       if(!st.empty()) ans=idx-st.top();
+       else ans=idx+1;
+       st.push(idx);
+       idx++;
+       return ans;
         
     }
 };
