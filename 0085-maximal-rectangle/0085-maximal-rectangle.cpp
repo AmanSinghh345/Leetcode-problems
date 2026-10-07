@@ -1,54 +1,47 @@
 class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        int n = matrix[0].size();
-        int m = matrix.size();
-        vector<int> heights(n, 0);
-        int maxi = INT_MIN;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == '0')
-                    heights[j] = 0;
-                else
-                    heights[j]++;
-            }
-            // Now this have become a single largest area in histogram problem
-            // so  find nse and pse and apply formula area=
-            // heights[i]*(nse-pse-1)
+        int m=matrix.size();
+        int n=matrix[0].size();
+        vector<int> heights(n,0);
+        int ans=0;
+        for(int i=0;i<m;i++){
 
-            vector<int> nse(n,n);
+            for(int j=0;j<n;j++){
+                if(matrix[i][j]=='0') heights[j]=0;
+                else heights[j]++;
+            }
+            for(int x:heights) cout<<x<<" ";
+            cout<<endl;
             stack<int> st;
-            for(int a=n-1;a>=0;a--)
-            {
-                while(!st.empty() and heights[st.top()]>=heights[a])
-                {
+            for(int i=0;i<n;i++){
+                while(!st.empty() && heights[st.top()]>=heights[i]){
+                    int nse=i;
+                    int ind=st.top();
                     st.pop();
+                    int pse;
+                    if(st.empty())  pse=-1;
+                    else pse=st.top();
+                    int width=nse-pse-1;
+                    int area=heights[ind]*width;
+                    ans=max(ans,area);
                 }
-                if(st.empty()) nse[a]=n;
-                else nse[a]=st.top();
-                st.push(a);
+                st.push(i);
             }
-
-            vector<int> pse(n,-1);
-            stack<int> stt;
-            for(int b=0;b<n;b++)
-            {
-
-                while(!stt.empty() and heights[stt.top()]>=heights[b])
-                {
-                    stt.pop();
-                }
-                if(!stt.empty()) pse[b]=stt.top();
-                stt.push(b);
+            while(!st.empty()){
+                int nse=n;
+                int pse;
+                int ind=st.top();
+                st.pop();
+                if(st.empty()) pse=-1;
+                else pse=st.top();
+                int width=nse-pse-1;
+                int area=heights[ind]*width;
+                ans=max(ans,area);
             }
+            cout<<ans<<endl;
 
-            for(int c=0;c<n;c++)
-            {
-                maxi=max(maxi,heights[c]*(nse[c]-pse[c]-1));
-            }
-
-
-        }
-        return maxi;
+        }   
+        return ans;
     }
 };
