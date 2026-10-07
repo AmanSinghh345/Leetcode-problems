@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0290-word-pattern) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0316-remove-duplicate-letters) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0258-add-digits) |
@@ -1576,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/AmanSinghh345/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
